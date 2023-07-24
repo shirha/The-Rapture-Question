@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "Lora"; 
+    src: url("Lora.ttf");
+}
+
+@page {
+    margin-bottom: 54pt;
+    margin-top: 54pt;
+    }
